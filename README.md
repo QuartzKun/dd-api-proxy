@@ -1,20 +1,10 @@
 # 弹弹play API 代理服务
 
-为 Emby弹幕插件 提供的弹弹play API 代理服务，用于解决跨域请求问题。
-
 ## ✨ 特性
 
 -  处理弹弹play API的签名认证
--  支持Vercel一键部署
 
 ## 🚀 快速开始
-
-### Vercel部署
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/ktl-dd)
-
-1. 点击上方按钮一键部署到Vercel
-2. 部署完成后，你将获得一个URL：`https://your-project.vercel.app`
 
 ### 本地开发
 
